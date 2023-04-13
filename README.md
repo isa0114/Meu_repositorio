@@ -1,7 +1,7 @@
 
 Visão geral
 
-O Git Init é um curso introdutório de três módulos que visa ensinar programadores iniciantes os conceitos fundamentais do Git e Github. Durante o curso, os participantes aprenderão a criar e gerenciar repositórios, fazer commits, branchs e merges, além de utilizar diversas ferramentas úteis para facilitar o trabalho do dia a dia como programador. Ao final do curso, os participantes estarão prontos para aplicar seus conhecimentos em projetos reais e utilizá-los para gerenciar o versionamento de seus códigos com eficiência.
+O Git Init é um curso introdutório de três módulos que visa ensinar programadores iniciantes os conceitos fundamentais do Git e Github. Durante o curso, os participantes aprenderão a criar e gerenciar repositórios, fazer commits, branchs e merges, além de utilizar diversas ferramentas úteis para facilitar o trabalho do dia a dia como programador. Ao final do curso, os participantes estarão prontos para aplicar seus conhecimentos em projetos reais e utilizá-los para gerenciar o versionamento de seus códigos com eficiência
 
 Objetivos
 
